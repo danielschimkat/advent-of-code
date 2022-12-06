@@ -1,0 +1,5 @@
+*
+!.gitignore
+!./day2/
+!package.json
+!package-lock.json
